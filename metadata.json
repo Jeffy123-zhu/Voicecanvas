@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCanvas",
+  "description": "A voice-to-art generator for accessibility. Speak to create dynamic, real-time art based on emotion and tone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
